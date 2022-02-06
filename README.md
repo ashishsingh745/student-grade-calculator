@@ -1,2 +1,3 @@
 Simple grade , marks , percentage calculator made by javascript , html , css.
-![image](https://user-images.githubusercontent.com/98957603/152680417-3ceac2c8-f610-4a71-b1d6-164d4b804eb4.png)
+![image](https://user-images.githubusercontent.com/98957603/152680443-062b4e96-9fcf-4f9a-914a-cd305c91c09e.png)
+
